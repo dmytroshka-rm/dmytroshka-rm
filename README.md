@@ -21,21 +21,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```python
-class DmytroKipen:
-  def __init__(self):
-    self.role = "AI/ML Engineer"
-    self.location = "Lviv, Ukraine"
-    self.education = "BSc Computer Science @ Lviv Polytechnic"
-    self.focus = [
-      "Agentic AI & Multi-Agent Systems",
-      "RAG Pipelines & Semantic Search",
-      "NLP & LLM Fine-Tuning",
-      "Production AI Backends",
-    ]
-    self.currently_learning = "Advanced NLP, LLM optimization"
-    self.fun_fact = "I build systems where AI agents argue"
-```
+- **AI/ML Engineer** from Lviv, Ukraine
+- **BSc Computer Science** @ Lviv Polytechnic National University
+- Building **Agentic AI**, **RAG Pipelines**, and **Multi-Agent Systems**
+- Passionate about **NLP**, **LLM Fine-Tuning**, and **Production AI Backends**
+- Currently diving deeper into **PyTorch internals** and **LLM optimization**
 
 ---
 
