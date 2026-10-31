@@ -23,18 +23,18 @@
 
 ```python
 class DmytroKipen:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.location = "Lviv, Ukraine"
-        self.education = "BSc Computer Science @ Lviv Polytechnic"
-        self.focus = [
-            "Agentic AI & Multi-Agent Systems",
-            "RAG Pipelines & Semantic Search",
-            "NLP & LLM Fine-Tuning",
-            "Production AI Backends",
-        ]
-        self.currently_learning = "Advanced NLP, PyTorch internals, LLM optimization"
-        self.fun_fact = "I architect systems where AI agents argue with each other so humans don't have to"
+  def __init__(self):
+    self.role = "AI/ML Engineer"
+    self.location = "Lviv, Ukraine"
+    self.education = "BSc Computer Science @ Lviv Polytechnic"
+    self.focus = [
+      "Agentic AI & Multi-Agent Systems",
+      "RAG Pipelines & Semantic Search",
+      "NLP & LLM Fine-Tuning",
+      "Production AI Backends",
+    ]
+    self.currently_learning = "Advanced NLP, LLM optimization"
+    self.fun_fact = "I build systems where AI agents argue"
 ```
 
 ---
